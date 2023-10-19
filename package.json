@@ -1,0 +1,25 @@
+{
+  "name": "calculator-assignmennt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ma-multiply": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "calculator-assignmennt": "^1.0.0",
+    "calculator-assignmentt": "^1.0.0",
+    "calculator-batch-47": "^1.0.0",
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
